@@ -26,13 +26,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some of the challenges I encountered while creating this app was making sure the Android Studio was up to date on my laptop. Sometimes when I would execute a certain piece of code in the beginning of the walkthrough for SimpleToDo, I would get an error about the version of Android Studio.
 
 ## License
 
